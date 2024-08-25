@@ -20,17 +20,17 @@ The Philosophy Game is a desktop application that generates and displays random 
 
 1. **Download the Executable**
 
-   Download the `PhilosophyGame.exe` file from the provided link or location.
+   Download the `Phigame2.exe` file from the provided link or location.
 
 2. **Run the Executable**
 
-   Double-click on `PhilosophyGame.exe` to launch the application. No additional installation is required.
+   Double-click on `Phigame2.exe` to launch the application. No additional installation is required.
 
 ## Usage
 
 1. **Open the Application**
 
-   Launch the `PhilosophyGame.exe` file to open the application window.
+   Launch the `Phigame2.exe` file to open the application window.
 
 2. **Generate a Philosophical Viewpoint**
 
